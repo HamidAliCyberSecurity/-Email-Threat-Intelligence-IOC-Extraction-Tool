@@ -1,0 +1,33 @@
+From: Attacker <attacker@evil-domain.com>
+To: Hamid <hamid@example.com>
+Subject: Urgent Account Verification Required
+Date: Tue, 13 Jan 2026 10:15:00 +0500
+Message-ID: <1234567890@evil-domain.com>
+Reply-To: support@evil-domain.com
+Return-Path: <bounce@evil-domain.com>
+Received: from mail.evil-domain.com (185.199.110.153)
+Received: from unknown (192.168.1.50)
+
+Hello Hamid,
+
+Your account has been compromised.
+
+Please verify immediately by clicking the link below:
+http://malicious-site.com/login.php?user=hamid
+
+If you do not act now, your account will be suspended.
+
+For support contact: support@evil-domain.com
+
+Bitcoin payment address:
+1BoatSLRHtKNngkdXEeobR76b53LETtpyT
+
+Malicious IPs observed:
+185.199.110.153
+8.8.8.8
+
+Sample hash:
+d41d8cd98f00b204e9800998ecf8427e
+
+Regards,
+Security Team
